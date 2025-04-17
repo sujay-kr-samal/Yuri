@@ -11,7 +11,7 @@
 - **Key Features:**  
   - Speech-to-text & Text-to-speech  
   - AI decision-making  
-  - Task & home automation  
+  - Task automation  
   - Image generation with AI  
 - **Main Entry Point:** `main.py`
 
@@ -29,7 +29,6 @@ The backend contains all the AI functionalities:
 - `Automation.py`: Handles task automation features.
 - `decision_maker.py`: Core decision-making system using logic or AI models.
 - `general_Ai.py`: General-purpose intelligent processing.
-- `Home_Ai.py`: Automates home-based tasks and IoT control.
 - `Image.py`: Generates visuals using AI image models.
 - `STT.py`: Converts spoken words into text (speech-to-text).
 - `TTS.py`: Converts text into audio output (text-to-speech).
