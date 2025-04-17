@@ -17,9 +17,6 @@
 
 ---
 
-
----
-
 ## 🧩 Component Breakdown
 
 ### 🔙 Backend
@@ -71,5 +68,8 @@ Make sure you have the following installed:
 
 Built with ❤️ by [Sujay K R Samal](https://github.com/sujay-kr-samal)
 
+---
 
+## 🖼️ Screenshot
 
+![Yuri Screenshot](Frontend/Graphics/Screenshot%202025-04-17%20203902.png)
