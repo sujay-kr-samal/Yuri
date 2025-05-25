@@ -66,7 +66,7 @@ Make sure you have the following installed:
 
 ## ✨ Credits
 
-Built with ❤️ by [Sujay K R Samal](https://github.com/sujay-kr-samal)
+Built with ❤️ by [Sujay Kr Samal](https://github.com/sujay-kr-samal)
 
 ---
 
